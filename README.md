@@ -40,11 +40,6 @@
 
 ### 📊 GitHub Overview
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daviewu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviewu&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daviewu&theme=tokyonight" alt="streak" />
 </p>
 
@@ -75,7 +70,7 @@
   <a href="mailto:wu.y26@northeastern.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://daviewu.github.io">
+  <a href="https://NoMooncake.github.io">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
