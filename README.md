@@ -51,7 +51,7 @@
 |-------------|----------------|----------|
 | [**MealPlanner**](https://github.com/NoMooncake/meal-planner) | A Java app integrating pantry inventory + AI-based recipe recommendation | Java · Maven · JUnit |
 | [**Text Adventure Game (MVC)**](https://github.com/NoMooncake/Text_Adventure) | A modular, test-driven Java narrative game with UML and controller logic | Java · MVC · OOP |
-| [**TikTok & YouTube Trend Dashboard**](nomooncake.github.io/YueWu3160) | Social media trend analytics with ETL pipeline and Tableau dashboards | Python · Pandas · Tableau |
+| [**TikTok & YouTube Trend Dashboard**](nomooncake.github.io/YueWu3160/) | Social media trend analytics with ETL pipeline and Tableau dashboards | Python · Pandas · Tableau |
 | [**Machine Learning （Logistic Regression Project）**](https://nomooncake.github.io/Logistic-Regression-Practice-Project) | Logistic regression model build and display | Python · Jupiter Notebook |
 
 ---
