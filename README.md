@@ -66,6 +66,29 @@ A large-scale, cloud-native AI system exploring how **LLM-based agents can suppo
 > Mira functions as a **living research system**, integrating architecture, ML reasoning, and human-centered design.
 
 ---
+### Behavior-State Modeling — User State Recognition Framework
+
+**Repository:** https://github.com/NoMooncake/behavior-state-modeling
+
+A research-oriented framework for modeling and inferring **latent user behavioral states** from interaction patterns, designed to support downstream decision-support and adaptive systems.
+
+The project focuses on translating low-level behavioral signals into **interpretable, high-level user states** (e.g., focused, disengaged, erratic), emphasizing structure and explainability over black-box prediction.
+
+**Research focus:**
+- Behavior-to-state abstraction
+- Interpretable user state modeling
+- Temporal patterns and session-level signals
+- Decision-support foundations for adaptive systems
+
+**Key characteristics:**
+- Rule-based and feature-driven state inference
+- Session-level aggregation of behavioral signals
+- Explicit state definitions with human-readable criteria
+- Designed as a modeling layer, not a recommendation engine
+
+> This project serves as a **foundational modeling layer** for understanding user behavior before intervention, personalization, or automation.
+
+---
 
 ### Social Media Attention & Trend Sensemaking  
 Demo: https://nomooncake.github.io/YueWu3160  
