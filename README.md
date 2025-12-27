@@ -44,16 +44,82 @@ Background in data science, machine learning, and system design, with strong int
 
 ---
 
-## Selected Explorations & Projects
+## Selected Research Systems & Studies
 
-| Area | Project | Research Focus |
-|----|--------|---------------|
-| Decision Systems | **MealPlanner** | Constraint-based daily decision modeling |
-| Narrative Systems | **Text Adventure Game (MVC)** | Decision logic, branching structures, and agency |
-| Social Data | **TikTok & YouTube Trend Dashboard** | Attention signals & trend sensemaking |
-| Interpretable ML | **Logistic Regression Study** | Model transparency & evaluation |
+### Mira — AI-Powered Reflective Companion *(Flagship System)*  
+**Repository:** https://github.com/NoMooncake/mira-astrology-companion  
 
-> These projects serve as **explorations rather than final products**, each examining a different aspect of human decision support.
+A large-scale, cloud-native AI system exploring how **LLM-based agents can support emotional reflection and decision-making**, rather than task completion.
+
+**Research focus:**
+- Human-centered conversational AI
+- Explainable emotional risk flagging
+- Reflection over optimization
+- System-level tradeoffs (cost, latency, interpretability)
+
+**Highlights:**
+- Serverless architecture (AWS Lambda, API Gateway, DynamoDB, Bedrock)
+- Rule-based + LLM hybrid reasoning
+- Cost-sensitive design decisions
+- Synthetic-data-first research ethics
+
+> Mira functions as a **living research system**, integrating architecture, ML reasoning, and human-centered design.
+
+---
+
+### Social Media Attention & Trend Sensemaking  
+Demo: https://nomooncake.github.io/YueWu3160  
+
+A data-driven study examining **how attention and trends form across TikTok and YouTube**, and how social platforms structure the information environments in which users make decisions.
+
+---
+
+### Robustness under Bad Data  
+**Repository:** https://github.com/NoMooncake/wine-bad-data-robustness  
+
+An empirical study on **how machine learning models degrade under label noise, missing values, and corrupted data**, focusing on robustness rather than peak accuracy.
+
+**Research focus:**
+- Failure modes of ML models
+- Robust evaluation under non-ideal data
+- Comparative behavior across model families
+
+---
+
+### Mini-Vibes — Explainable Risk Flagging Prototype  
+**Repository:** https://github.com/NoMooncake/mini-vibes  
+
+A lightweight, rule-based prototype for **emotion-aware risk flagging** in short journal entries, designed for interpretability over prediction.
+
+**Research focus:**
+- Explainability-first AI
+- Conservative, non-diagnostic design
+- Human-in-the-loop decision support
+
+---
+
+### Mini-Autograd — Learning from First Principles  
+**Repository:** https://github.com/NoMooncake/mini-autograd  
+
+A minimal autograd engine built from scratch to study **backpropagation, computational graphs, and learning dynamics**.
+
+**Research focus:**
+- Understanding learning mechanisms
+- Transparency in optimization
+- Educational and interpretive ML tooling
+
+---
+
+### Meal Planner — Constraint-Based Daily Decisions  
+**Repository:** https://github.com/NoMooncake/meal-planner  
+
+A Java-based system modeling **everyday decision-making under constraints**, combining pantry state, preferences, and recipe logic.
+
+**Research focus:**
+- Decision modeling in daily life
+- Constraint satisfaction vs recommendation
+- Modular system design
+
 
 ---
 
