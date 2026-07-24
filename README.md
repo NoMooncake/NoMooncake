@@ -1,188 +1,84 @@
-<h1 align="center">Davie Wu</h1>
+<h2 align="center">👋 Hello! I'm Davie.</h2>
 
-<p align="center">
-Research-Oriented Computer Science · Human-Centered Data Systems
-</p>
+<h5 align="center">
+  <a href="https://nomooncake.github.io">Portfolio</a>
+  &emsp;•&emsp;
+  <a href="https://www.linkedin.com/in/yue-wu-030816d">LinkedIn</a>
+  &emsp;•&emsp;
+  <a href="mailto:wu.y26@northeastern.edu">Email</a>
+</h5>
 
-<p align="center">
-Exploring how data, machine learning, and design frameworks
-support human decision-making under uncertainty.
-</p>
-
----
-
-## Research Statement
-
-I am interested in **how people make decisions in complex, information-dense environments**, and how **data-driven systems can be designed to reduce cognitive overload rather than amplify it**.
-
-My work explores:
-- how raw data can be structured into **decision frameworks**
-- how machine learning models can remain **interpretable and trustworthy**
-- how visualization and interaction design influence **sensemaking**
-
-Rather than optimizing models in isolation, I focus on **human-centered data systems** that support clarity, comparison, and reflection.
-
----
-
-## Research Interests
-
-- Decision-making under uncertainty  
-- Information overload and cognitive framing  
-- Explainable and interpretable machine learning  
-- Data-driven sensemaking tools  
-- Human–AI interaction  
-- Generative AI for analysis and storytelling  
-
----
-
-## Education
-
-**M.S. in Computer Science**  
-*Northeastern University, Miami*
-
-Background in data science, machine learning, and system design, with a strong interest in research-oriented and design-integrated applications of AI.
-
----
-
-## Selected Research Systems and Studies
-
-### Mira — AI-Powered Reflective Companion (Flagship System)  
-Repository: https://github.com/NoMooncake/mira-astrology-companion  
-
-A large-scale, cloud-native AI system exploring how **LLM-based agents can support emotional reflection and decision-making**, rather than task completion.
-
-**Research focus**
-- Human-centered conversational AI  
-- Explainable emotional risk flagging  
-- Reflection over optimization  
-- System-level tradeoffs (cost, latency, interpretability)  
-
-**Highlights**
-- Serverless architecture (AWS Lambda, API Gateway, DynamoDB, Bedrock)  
-- Rule-based and LLM hybrid reasoning  
-- Cost-sensitive design decisions  
-- Synthetic-data-first research ethics  
-
-Mira functions as a **living research system**, integrating architecture, ML reasoning, and human-centered design.
-
----
-
-### Behavior-State Modeling — User State Recognition Framework  
-Repository: https://github.com/NoMooncake/behavior-state-modeling  
-
-A research-oriented framework for modeling and inferring **latent user behavioral states** from interaction patterns, designed to support downstream decision-support and adaptive systems.
-
-The project translates low-level behavioral signals into **interpretable, high-level user states**, emphasizing structure and explainability over black-box prediction.
-
-**Research focus**
-- Behavior-to-state abstraction  
-- Interpretable user state modeling  
-- Temporal patterns and session-level signals  
-- Foundations for adaptive decision-support systems  
-
-This project serves as a **foundational modeling layer** for understanding user behavior prior to intervention, personalization, or automation.
-
----
-
-### Social Media Attention and Trend Sensemaking  
-Demo: https://nomooncake.github.io/YueWu3160  
-
-A data-driven study examining **how attention and trends form across TikTok and YouTube**, and how social platforms structure the information environments in which users make decisions.
-
----
-
-### Robustness under Bad Data  
-Repository: https://github.com/NoMooncake/wine-bad-data-robustness  
-
-An empirical study on **how machine learning models degrade under label noise, missing values, and corrupted data**, focusing on robustness rather than peak accuracy.
-
-**Research focus**
-- Failure modes of ML models  
-- Robust evaluation under non-ideal data  
-- Comparative behavior across model families  
-
----
-
-### Mini-Vibes — Explainable Risk Flagging Prototype  
-Repository: https://github.com/NoMooncake/mini-vibes  
-
-A lightweight, rule-based prototype for **emotion-aware risk flagging** in short journal entries, designed for interpretability over prediction.
-
-**Research focus**
-- Explainability-first AI  
-- Conservative, non-diagnostic design  
-- Human-in-the-loop decision support  
-
----
-
-### Mini-Autograd — Learning from First Principles  
-Repository: https://github.com/NoMooncake/mini-autograd  
-
-A minimal autograd engine built from scratch to study **backpropagation, computational graphs, and learning dynamics**.
-
-**Research focus**
-- Understanding learning mechanisms  
-- Transparency in optimization  
-- Educational and interpretive ML tooling  
-
----
-
-### Meal Planner — Constraint-Based Daily Decisions  
-Repository: https://github.com/NoMooncake/meal-planner  
-
-A Java-based system modeling **everyday decision-making under constraints**, combining pantry state, preferences, and recipe logic.
-
-**Research focus**
-- Decision modeling in daily life  
-- Constraint satisfaction versus recommendation  
-- Modular system design  
-
----
-
-## Methods and Tools
-
-**Data and Machine Learning**
-- Statistical modeling  
-- Interpretable machine learning  
-- Feature analysis and evaluation  
-- ETL pipelines and exploratory analysis  
-
-**Systems and Design**
-- Modular system architecture  
-- MVC and design patterns  
-- Decision framework design  
-- Visualization and narrative structure  
-
-**Technical Stack**  
-Python · Java · SQL · Pandas · NumPy · scikit-learn · PyTorch  
-Tableau · Docker · AWS · Git · Jupyter · Maven  
-
----
-
-## Current Research Directions
-
-- Designing **decision-support systems** rather than prediction-only models  
-- Exploring **generative AI** as a co-analyst and explanatory agent  
-- Studying how different data representations influence user judgment  
-- Bridging **machine learning and interaction design**  
-
----
-
-## Open Questions
-
-- How much model accuracy should be sacrificed for interpretability?  
-- When does more information reduce decision quality?  
-- Can AI systems explain *why not* instead of only *why*?  
-- How can data systems support reflection rather than speed?  
-
----
-
-## Contact
-
-Portfolio: https://NoMooncake.github.io  
-LinkedIn: https://www.linkedin.com/in/yue-wu-030816d  
-Email: wu.y26@northeastern.edu  
-
----
-
-*This GitHub serves as a living research notebook rather than a showcase of finished products.*
+<table width="100%" align="center">
+  <tr>
+    <td colspan="3" align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+      <picture>
+        <source
+          srcset="https://github-readme-stats-fast.vercel.app/api?username=NoMooncake&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-readme-stats-fast.vercel.app/api?username=NoMooncake&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=NoMooncake&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" alt="NoMooncake's GitHub stats" />
+      </picture>
+    </a></td>
+    <td colspan="3" align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
+      <picture>
+        <source
+          srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=NoMooncake&mode=weekly&hide_border=true&background=00000000&theme=dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=NoMooncake&mode=weekly&hide_border=true&background=00000000"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-streak-stats-mirror.vercel.app/?user=NoMooncake&mode=weekly&hide_border=true" height="100%" alt="NoMooncake's contribution streak" />
+      </picture>
+    </a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <picture>
+        <source
+          srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=NoMooncake&border_color=0000&bg_color=0000&theme=nord_dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=NoMooncake&border_color=0000&bg_color=0000&theme=nord_bright"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=NoMooncake&border_color=0000&bg_color=0000" height="100%" alt="Languages by repository" />
+      </picture>
+    </a></td>
+    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <picture>
+        <source
+          srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=NoMooncake&border_color=0000&bg_color=0000&theme=nord_dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=NoMooncake&border_color=0000&bg_color=0000&theme=nord_bright"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=NoMooncake&border_color=0000&bg_color=0000" height="100%" alt="Languages by commit" />
+      </picture>
+    </a></td>
+    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <picture>
+        <source
+          srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=NoMooncake&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=NoMooncake&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_bright"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=NoMooncake&utcOffset=8&border_color=0000&bg_color=0000" height="100%" alt="Productive time" />
+      </picture>
+    </a></td>
+  </tr>
+  <tr>
+    <td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
+      <picture>
+        <source
+          srcset="https://github-profile-trophy.vercel.app/?username=NoMooncake&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-profile-trophy.vercel.app/?username=NoMooncake&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-profile-trophy.vercel.app/?username=NoMooncake&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" alt="GitHub trophies" />
+      </picture>
+    </a></td>
+  </tr>
+</table>
